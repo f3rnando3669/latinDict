@@ -1,2 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
-<root><word> King's Mountain, Königsberg, Monterrey, Montréal  <Latin>Regi(o)montium</Latin><Subject>general city</Subject><source>('', '1771 WAY dedication page (of the county in Delaware)')</source></word><word> Newcastle, Neuchâtel, Châteauneuf  <Latin>Novum Castellum</Latin><Subject>general city</Subject><source>('', 'Graesse')</source></word><word> Newport, Nieuwpoort  <Latin>Neoportus</Latin><Subject>general city</Subject><source>('', '1674 MILTON XIII')</source></word></root>
+<?xml version="1.0" ?>
+<root>
+  <word>
+     King's Mountain, Königsberg, Monterrey, Montréal  
+    <Latin>
+      Regi(o)montium
+      <Subject>general city</Subject>
+    </Latin>
+    <source>('', '1771 WAY dedication page (of the county in Delaware)')</source>
+  </word>
+  <word>
+     Newcastle, Neuchâtel, Châteauneuf  
+    <Latin>
+      Novum Castellum
+      <Subject>general city</Subject>
+    </Latin>
+    <source>('', 'Graesse')</source>
+  </word>
+  <word>
+     Newport, Nieuwpoort  
+    <Latin>
+      Neoportus
+      <Subject>general city</Subject>
+    </Latin>
+    <source>('', '1674 MILTON XIII')</source>
+  </word>
+</root>
